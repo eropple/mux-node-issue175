@@ -1,0 +1,16 @@
+{
+  "name": "i175-tsconfig",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@mux/mux-node": "^5.1.0",
+    "@types/node": "^18.0.0",
+    "typescript": "^4.1.3"
+  }
+}
